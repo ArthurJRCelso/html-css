@@ -32,22 +32,13 @@ header > p {
     padding-bottom: 50px;
 }
 
-p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-family: var(--fonte2);
-
-}
-
 section {
    padding-top: 10vh;
    padding-bottom: 10vh;
    line-height: 2em;
    padding-left: 30px; 
    font-size: 3.5vw;
+   font-family: var(--fonte2);
 }
 
 
